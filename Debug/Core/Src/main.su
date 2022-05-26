@@ -1,0 +1,12 @@
+../Core/Src/main.c:86:5:main	8	static
+../Core/Src/main.c:134:6:SystemClock_Config	72	static
+../Core/Src/main.c:171:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:209:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:242:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:264:13:bufclear	24	static
+../Core/Src/main.c:271:13:send_uart	24	static
+../Core/Src/main.c:278:13:microSD_init	8	static
+../Core/Src/main.c:288:13:microSD_getSize	24	static
+../Core/Src/main.c:309:13:microSD_put	24	static
+../Core/Src/main.c:330:13:microSD_get	72	static
+../Core/Src/main.c:358:6:Error_Handler	4	static,ignoring_inline_asm
